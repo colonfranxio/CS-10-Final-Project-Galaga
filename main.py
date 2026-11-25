@@ -6,7 +6,7 @@ clock = pygame.time.Clock()
 screen = pygame.display.set_mode((800, 600))
 
 #PLAYER SET UP
-Player = pygame.image.load("test.png")
+Player = pygame.image.load("ship.png")
 speed = 5
 x = 400
 y = 500
